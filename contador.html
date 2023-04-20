@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador</title>
+    <link rel="shortcut icon" href="Imagens/relogio_imagem.ico" type="image/x-icon">
+    <link rel="stylesheet" href="contador.css">
+</head>
+<body>
+
+    <header>
+        <h1>Contador</h1>
+    </header>
+
+    <main>
+
+        <section>
+            
+            <div>
+                <p id="msg_num">0</p>
+            </div>
+
+            <div>
+                <p>
+                    <input type="button" value="DIMINUIR" onclick="dim()" id="diminuir">
+                    <input type="reset" value="RESETAR" onclick="reset()" id="resetar">
+                    <input type="button" value="AUMENTAR" onclick="aumen()" id="aumentar">
+                </p>
+            </div>           
+                        
+        </section>
+
+    </main>
+
+    <script src="contador.js"></script>
+
+</body>
+</html>
