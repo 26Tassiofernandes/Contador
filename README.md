@@ -28,6 +28,7 @@
 - arrays <br>
 - document.getElementById() <br>
 - document.style.color <br>
+- filter <br>  
 - estruturas condicionais <br>
 - laço for <br>
 </p>
