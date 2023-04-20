@@ -29,6 +29,7 @@
 - document.getElementById() <br>
 - document.style.color <br>
 - filter <br>  
+- arrow functions <br>
 - estruturas condicionais <br>
 - laço for <br>
 </p>
