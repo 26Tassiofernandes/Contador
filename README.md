@@ -13,30 +13,35 @@
 <img src="https://user-images.githubusercontent.com/86972667/233251549-8a3556cd-91f2-4fa7-8b53-0c79640c72f4.png" alt="imagem">
 </div>
 
-
 ##
 
 ### 📜 Descrição 
-<p>Um contador básico que com base em condições exibe números positivos e negativos com cores
-
-</p>
+Um contador básico que com base em condições exibe números positivos e negativos com cores
 
 ##
 
-### 📚 Conceitos tratados nesse projeto
-<p>
-- arrays <br>
-- document.getElementById() <br>
-- document.style.color <br>
-- filter <br>  
-- arrow functions <br>
-- estruturas condicionais <br>
-- laço for <br>
-</p>
+### 📚 Tecnologias tratadas nesse projeto
+
+- HTML
+- CSS
+- JavaScript
 
 ##
 
-### ✏️ Licença 
-<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.</p>
+### ⚙ Requisitos
+
+- Ter um navegador da Web Moderno instalado em sua máquina.
+
+##
+
+### ⚒️ Como rodar?
+
+O usuário apenas precisa abrir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
+
+##
+
+### ✏️ Licença
+
+Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
 
 ##
