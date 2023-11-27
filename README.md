@@ -36,7 +36,7 @@ Um contador básico que com base em condições exibe números positivos e negat
 
 ### ⚒️ Como rodar?
 
-O usuário apenas precisa abrir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
+O usuário apenas precisa seguir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
 
 ##
 
